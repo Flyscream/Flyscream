@@ -1,3 +1,39 @@
+👋 hi, I’m Alexandre (aka FlyScream)
+
+💻 SIO BTS student and developer passionate about everything that compiles (even when it shouldn’t).
+
+---
+
+🚀 About me
+
+🧠 I code until it works (or crashes nicely)
+
+💸 Creator of ClikerDollar — a game where you click to become rich (virtually, you shouldn’t dream)
+
+🧀 I created a showcase site about cheeses, so yeah... I am a refined dev 🧀
+
+✈️ I also created a real-time aircraft tracking API (my personal version of Flightradar24 😏)
+
+💞 I dig projects where I can say: "don’t worry, I’m doing a Java class for that"
+
+☠️ Symfony ...
+
+---
+
+🧰 Languages & tools
+
+🖥️ Languages:
+
+Python • Java • JavaScript • PHP • HTML / CSS
+
+⚙️ What I like to tinker with:
+
+API • clicker games • showcase sites • automation Excel • projects a bit too ambitious
+
+Participation in a major project 
+
+---
+---
 👋 salut, moi c’est Alexandre (aka FlyScream)
 
 💻 Étudiant en BTS SIO et développeur passionné par tout ce qui compile (même quand ça ne devrait pas).
