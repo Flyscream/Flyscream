@@ -16,7 +16,7 @@
 
 💞 Je kiffe les projets où je peux dire : « t’inquiète, je fais une classe Java pour ça »
 
-☠️ Symfony ? Disons que c’est ma kryptonite.
+☠️ Symfony ...
 
 ---
 
