@@ -24,7 +24,7 @@
 
 🖥️ Languages:
 
-Python • Java • JavaScript • PHP • HTML / CSS
+Python • Java • JavaScript • PHP • HTML / CSS • VBA • SQL • C++
 
 ⚙️ What I like to tinker with:
 
@@ -60,7 +60,7 @@ Participation in a major project
 
 🖥️ Langages :
 
-Python • Java • JavaScript • PHP • HTML / CSS
+Python • Java • JavaScript • PHP • HTML / CSS • VBA • SQL • C++
 
 ⚙️ Ce que j’aime bidouiller :
 
