@@ -1,34 +1,37 @@
+[Prénom Nom] | Développeur Logiciel & Étudiant BTS SIO
+À propos de moi
+Étudiant en BTS Services Informatiques aux Organisations (SIO), je me spécialise dans le développement d'applications et la conception de solutions logicielles. Passionné par l'architecture du code et la résolution de problèmes techniques, j'apprécie particulièrement transformer des concepts complexes en outils fonctionnels et performants.
 
-👋 salut, moi c’est FlyScream
+Projets Significatifs
+ClikerDollar : Développement d'un jeu de simulation économique (Incremental Game) axé sur la gestion d'états et l'expérience utilisateur.
 
-💻 Étudiant en BTS SIO et développeur passionné par tout ce qui compile (même quand ça ne devrait pas).
+Système de Suivi Aérien : Conception d'une API de tracking d'avions en temps réel, implémentant des flux de données dynamiques (similaire aux fonctionnalités de Flightradar24).
 
----
+Site Vitrine Gastronomique : Création d'une plateforme web optimisée pour la présentation de produits du terroir, avec un focus sur le design responsive et le référencement.
 
-🚀 À propos de moi
+Automatisation & Outils : Développement de scripts VBA et Python pour l'automatisation de processus de gestion de données.
 
-🧠 Je code jusqu’à ce que ça marche (ou que ça plante joliment)
+Compétences Techniques
+Langages de Programmation
+Backend : Java, PHP (Symfony), Python, C++
 
-💸 Créateur de ClikerDollar — un jeu où tu cliques pour devenir riche (virtuellement, faut pas rêver)
+Frontend : JavaScript, HTML5, CSS3
 
-🧀 J’ai pondu un site vitrine sur les fromages, donc ouais… je suis un dev affiné 🧀
+Données & Bureautique : SQL, VBA
 
-✈️ J’ai aussi fait une API de suivi d’avions en temps réel (ma version perso de Flightradar24 😏)
+Domaines d'Expertise
+Conception d'API et intégration de services tiers.
 
-💞 Je kiffe les projets où je peux dire : « t’inquiète, je fais une classe Java pour ça »
+Développement d'applications Web et Mobiles.
 
-☠️ Symfony ...
+Programmation Orientée Objet (Java).
 
----
+Gestion de bases de données relationnelles.
 
-🧰 Langages & outils
+Formation & Objectifs
+Actuellement en formation supérieure, je renforce mes compétences sur des frameworks modernes comme Symfony et j'approfondis mes connaissances en architecture logicielle. Je suis ouvert aux collaborations sur des projets ambitieux nécessitant rigueur technique et esprit d'équipe.
 
-🖥️ Langages :
+Contact & Liens
+LinkedIn : [Lien vers votre profil]
 
-Python • Java • JavaScript • PHP • HTML / CSS • VBA • SQL • C++
-
-⚙️ Ce que j’ai fais :
-
-API • jeux clicker • sites vitrines • automatisation Excel • projets un peu trop ambitieux
-
-Participation a de grand projet 
+Portfolio : [Lien vers votre site si disponible]
