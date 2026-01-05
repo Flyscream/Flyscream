@@ -1,4 +1,5 @@
-[Prénom Nom] | Développeur Logiciel & Étudiant BTS SIO
+Alexandre GLEIZES | Développeur Logiciel & Étudiant BTS SIO
+
 À propos de moi
 Étudiant en BTS Services Informatiques aux Organisations (SIO), je me spécialise dans le développement d'applications et la conception de solutions logicielles. Passionné par l'architecture du code et la résolution de problèmes techniques, j'apprécie particulièrement transformer des concepts complexes en outils fonctionnels et performants.
 
@@ -32,6 +33,8 @@ Formation & Objectifs
 Actuellement en formation supérieure, je renforce mes compétences sur des frameworks modernes comme Symfony et j'approfondis mes connaissances en architecture logicielle. Je suis ouvert aux collaborations sur des projets ambitieux nécessitant rigueur technique et esprit d'équipe.
 
 Contact & Liens
-LinkedIn : [Lien vers votre profil]
+Email : alexgleizes18@gmail.com 
 
-Portfolio : [Lien vers votre site si disponible]
+LinkedIn : https://www.linkedin.com/feed/
+
+Portfolio : https://flyscream.github.io/PortfolioAlexandre-main/Portfolio/html/pageaccueil_portfolio.html
