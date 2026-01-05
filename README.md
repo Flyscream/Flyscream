@@ -33,6 +33,8 @@ Formation & Objectifs
 Actuellement en formation supérieure, je renforce mes compétences sur des frameworks modernes comme Symfony et j'approfondis mes connaissances en architecture logicielle. Je suis ouvert aux collaborations sur des projets ambitieux nécessitant rigueur technique et esprit d'équipe.
 
 Contact & Liens
+
+
 Email : alexgleizes18@gmail.com 
 
 LinkedIn : https://www.linkedin.com/feed/
