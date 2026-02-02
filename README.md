@@ -1,7 +1,7 @@
 Alexandre GLEIZES | Développeur Logiciel & Étudiant BTS SIO
 
 À propos de moi
-Étudiant en BTS Services Informatiques aux Organisations (SIO), je me spécialise dans le développement d'applications et la conception de solutions logicielles. Passionné par l'architecture du code et la résolution de problèmes techniques, j'apprécie particulièrement transformer des concepts complexes en outils fonctionnels et performants.
+Étudiant en informatiques, je me spécialise dans le développement d'applications et la conception de solutions logicielles. Passionné par l'architecture du code et la résolution de problèmes techniques, j'apprécie particulièrement transformer des concepts complexes en outils fonctionnels et performants.
 
 Projets Significatifs
 ClikerDollar : Développement d'un jeu de simulation économique (Incremental Game) axé sur la gestion d'états et l'expérience utilisateur.
