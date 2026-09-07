@@ -1,32 +1,41 @@
-### Hi, I'm Alexandre 
+# Alexandre
 
-I am a **Software Engineering Student** and developer based in **France** 🇫🇷. I focus on building clean, efficient applications through my academic and personal projects. 
+I am a Software Engineering Student and developer based in France. I focus on building clean, efficient software through my academic and personal projects.
 
-###  Technical Skills
+---
+
+## Technical Skills
 
 ### Backend
-
-* **Languages:** Java, PHP, Python, C++
-* **Frameworks:** Symfony
+- **Languages:** Java, PHP, Python, C++
+- **Frameworks:** Symfony
 
 ### Frontend
-
-* **Languages:** JavaScript, HTML5, CSS3
-* **Frameworks:** Angular
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frameworks:** Angular
 
 ### Databases & Office Automation
+- **Databases:** MySQL / SQL
+- **Automation:** VBA
 
-* **Databases:** MySQL / SQL
-* **Automation:** VBA
+---
 
-###  Tools & Environments
+## Tools & Environments
 
-* **Version Control:** Git & GitHub
-* **IDE:** VS Code
-* **OS:** Linux
+- **Version Control:** Git, GitHub
+- **IDE:** VS Code
+- **OS:** Linux
 
-###  Areas of Focus
+---
 
-* **API & Services:** Designing REST APIs and integrating third-party services.
-* **Web Development:** Creating modern, responsive web applications.
-* **OOP:** Object-Oriented Programming (primarily focused on Java).
+## Areas of Focus
+
+- **API & Services:** Designing REST APIs and integrating third-party services.
+- **Web Development:** Creating modern, responsive web applications.
+- **OOP:** Object-Oriented Programming (primarily focused on Java).
+
+---
+
+<div align="center">
+  <sub>Software Engineering Student — Continuous learner, passionate about code.</sub>
+</div>
