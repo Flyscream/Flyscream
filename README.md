@@ -24,7 +24,7 @@ I am a Software Engineering Student and developer based in France. I focus on bu
 
 - **Version Control:** Git, GitHub
 - **IDE:** VS Code || Intellij IDE
-- **OS:** Linux
+- **OS:** Windows || Linux
 
 ---
 
