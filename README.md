@@ -23,7 +23,7 @@ I am a Software Engineering Student and developer based in France. I focus on bu
 ## Tools & Environments
 
 - **Version Control:** Git, GitHub
-- **IDE:** VS Code
+- **IDE:** VS Code || Intellij IDE
 - **OS:** Linux
 
 ---
